@@ -1,0 +1,9 @@
+trimesh
+manifold3d
+shapely
+mapbox_earcut
+scipy
+matplotlib
+numpy
+lxml
+networkx

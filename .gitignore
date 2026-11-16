@@ -1,0 +1,5 @@
+_*.stl
+out/
+__pycache__/
+.venv/
+venv/
